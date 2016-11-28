@@ -1,0 +1,31 @@
+
+
+.thing {
+  height: auto;
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 75px;
+  align-items: center;
+  justify-content: center;
+}
+
+.result {
+  /*padding-left: 50px;*/
+}
+
+#stuff {
+  text-align: center;
+}
+
+#logo {
+}
+
+.row {
+}
+
+body {
+  background-image: url("https://i.ytimg.com/vi/C_DVrWUJ14Q/maxresdefault.jpg");
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  height: 900px;
+}
